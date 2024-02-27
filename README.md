@@ -1,5 +1,6 @@
 # Chat-KCR-Your-AI-Interviewer-for-Technical-HR-Brilliance
 AI INTERVIEWER CHATBOT has three initial features to begin with and also has a feedback feature: <br>
+
 i) Technical Interview Session: The AI Interviewer chatbot tests the technical knowledge of a candidate based on the job description mentioned by them at the beginning of the session. For example, a question may be asked on object-oriented programming if the candidate mentions it. <br>
 
 ii) Interpersonal Interview Session: The AI Interviewer chatbot tests the internal personal skills of an individual, like the ability to interact, collaborate, and lead, by asking situation-based questions. <br>
@@ -24,6 +25,20 @@ A callback function is in place, which plays a vital role during the whole proce
 
 ![image](https://github.com/Kushal1306/Chat-KCR-Your-AI-Interviewer-for-Technical-HR-Brilliance/assets/95643826/5c157f02-bd23-4896-8540-323bf415bcc6)
 
- Fig 2: Data Flow Diagram Of Proposed System <br>
+Fig 2: Data Flow Diagram Of Proposed System <br>
  
 The feedback feature analyses the whole interview conversation and evaluates the performance with the help of the feedback template. OpenAI’s GPT 3.5 is opted as large language model, and its large language models are one of the best performing models in the current AI space.
+
+<br>
+
+<img width="531" alt="best_ans_tech" src="https://github.com/Kushal1306/Chat-KCR-Your-AI-Interviewer-for-Technical-HR-Brilliance/assets/95643826/2a351185-ad76-4c08-8aa6-6edd3eb41353">
+
+Fig 3: Conversation of a Technical Session
+
+<br>
+
+<img width="547" alt="best_tech_feed" src="https://github.com/Kushal1306/Chat-KCR-Your-AI-Interviewer-for-Technical-HR-Brilliance/assets/95643826/ff3a4b56-7265-4499-ad8f-17e655698014">
+
+ Fig 4: Feedback of a Technical Session
+
+
