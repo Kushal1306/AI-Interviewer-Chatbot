@@ -1,6 +1,6 @@
 # Chat-KCR-Your-AI-Interviewer-for-Technical-HR-Brilliance
-AI INTERVIEWER CHATBOT has three initial features to begin with and also has a feedback feature:
-i) Technical Interview Session: The AI Interviewer chatbot tests the technical knowledge of a candidate based on the job description mentioned by them at the beginning of the session. For example, a question may be asked on object-oriented programming if the candidate mentions it.
+AI INTERVIEWER CHATBOT has three initial features to begin with and also has a feedback feature: <br>
+i) Technical Interview Session: The AI Interviewer chatbot tests the technical knowledge of a candidate based on the job description mentioned by them at the beginning of the session. For example, a question may be asked on object-oriented programming if the candidate mentions it. <br>
 ii) Interpersonal Interview Session: The AI Interviewer chatbot tests the internal personal skills of an individual, like the ability to interact, collaborate, and lead, by asking situation-based questions.
 iii) Resume-Based Session: The AI Interviewer chatbot tests the candidate based on their resume, which may include work experience, projects, and the role they opted for at the beginning of the session.
 iv) Feedback Feature: This feature analyses the whole conversation between the AI interviewer chatbot and candidate, evaluates the performance of the individual, and suggests improvements. 
