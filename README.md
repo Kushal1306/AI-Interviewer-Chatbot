@@ -3,7 +3,7 @@
 i) Technical Interview Session: The AI Interviewer chatbot tests the technical knowledge of a candidate based on the job description mentioned by them at the beginning of the session. For example, a question may be asked on object-oriented programming if the candidate mentions it. <br>
 ii) Interpersonal Interview Session: The AI Interviewer chatbot tests the internal personal skills of an individual, like the ability to interact, collaborate, and lead, by asking situation-based questions. <br>
 iii) Resume-Based Session: The AI Interviewer chatbot tests the candidate based on their resume, which may include work experience, projects, and the role they opted for at the beginning of the session. <br>
-iv) Feedback Feature: This feature analyses the whole conversation between the AI interviewer chatbot and candidate, evaluates the performance of the individual, and suggests improvements. <br>
+iv) Feedback Feature: This feature analyses the whole conversation between the AI interviewer chatbot and candidate, evaluates the performance of the individual, and suggests improvements. <br> 
 ![image](https://github.com/Kushal1306/Chat-KCR-Your-AI-Interviewer-for-Technical-HR-Brilliance/assets/95643826/ad398495-26c5-492c-917b-4eb2dd267040)
 
  Fig. 1:  Architecture of  Retreival & Conversation Chain <br>
